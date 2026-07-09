@@ -1,4 +1,4 @@
-# _Illett_
+# \_Illett\_
 
 京都で大学生をしている一般人です。個人開発でツールを作っています。
 
@@ -7,7 +7,7 @@ I'm a university student based in Kyoto, Japan, working on personal software pro
 ## Contact
 
 - Email: illett.shallows@gmail.com
-- Twitter (X): [@_Illett_](https://twitter.com/_Illett_)
+- Twitter (X): [@\_Illett\_](https://twitter.com/_Illett_)
 - GitHub上のコメント・Issueでも歓迎します。 / Comments and issues on GitHub are also welcome.
 
 ## Featured Project
