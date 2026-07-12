@@ -10,15 +10,23 @@ I'm a university student based in Kyoto, Japan, working on personal software pro
 - Twitter (X): [@\_Illett\_](https://twitter.com/_Illett_)
 - GitHub上のコメント・Issueでも歓迎します。 / Comments and issues on GitHub are also welcome.
 
-## Featured Project
+## Projects
 
-**[PathBrowser](https://github.com/Illett0/PathBrowser)**
+### [PathBrowser](https://github.com/Illett0/PathBrowser)
 
-Googleマップの位置情報タイムラインを読み込み、訪れた都道府県・市区町村の制覇マップ・移動統計・滞在履歴を可視化するデスクトップアプリ(Electron製)。すべての解析処理はローカルで完結します。
+Googleマップの位置情報タイムラインを読み込み、訪れた都道府県・市区町村の制覇マップ・移動統計・滞在履歴を可視化するデスクトップアプリ(Electron製)。写真連携(Exif/Google Takeout)による撮影地点の重ね合わせ・撮影地点の推定にも対応。すべての解析処理はローカルで完結します。
 
-A desktop app (Electron) that visualizes a Google Maps location Timeline export as a prefecture/municipality "conquest map," with route maps and travel statistics. All processing runs locally.
+A desktop app (Electron) that visualizes a Google Maps location Timeline export as a prefecture/municipality "conquest map," with route maps, travel statistics, and optional photo (Exif/Google Takeout) location overlays. All processing runs locally.
 
 [Repository](https://github.com/Illett0/PathBrowser) · [Releases](https://github.com/Illett0/PathBrowser/releases) · License: PolyForm Noncommercial
+
+### [TLINE](https://github.com/Illett0/TLINE)
+
+OuDia/OuDiaSecondのUI・機能コンセプトを参考にした、運転整理(ダイヤの秒単位シフト)・実績記録を扱う運行管理補助デスクトップアプリ(Electron製)。`.oud`/`.oud2`ファイルのクリーンルームインポートに対応。現在プロジェクト骨格の段階で開発中です。
+
+A desktop app (Electron) for train dispatch adjustment and performance-record tracking, inspired by OuDia/OuDiaSecond's UI and feature concepts (no code reuse). Supports clean-room import of `.oud`/`.oud2` files. Currently in early/foundational development.
+
+[Repository](https://github.com/Illett0/TLINE) · [Issues](https://github.com/Illett0/TLINE/issues) · License: PolyForm Noncommercial
 
 ## Tech Stack
 
